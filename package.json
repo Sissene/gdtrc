@@ -1,0 +1,17 @@
+{
+  "name": "gdtbot",
+  "version": "1.0.0",
+  "description": "gdt bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "fortnite": "^3.0.0",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sissene",
+  "license": "ISC"
+}
